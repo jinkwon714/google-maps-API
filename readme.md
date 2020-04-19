@@ -8,7 +8,7 @@
 
 - Add info window with name of store to each marker Done
 
-- Add input box
+- Add input box Done
 
 - Add store list container
 
