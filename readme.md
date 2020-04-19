@@ -14,13 +14,13 @@
 
 - Add individual store container Done
 
-- Show all the stores in the stores list using `store-data.js`
+- Show all the stores in the stores list using `store-data.js` Done
 
-- Open the info window of the marker on store selection in stores list 
+- Open the info window of the marker on store selection in stores list Done
 
-- Complete the styling for the marker info window
+- Complete the styling for the marker info window Homework
 
-- Allow a user to search for stores in a zip code
+- Allow a user to search for stores in a zip code Done
 
 - Add a beautiful transition on the hover of an individual store
 
